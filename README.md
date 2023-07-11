@@ -7,7 +7,7 @@ This homework is to devlope the back end for an e-commerce site. You’ll take a
 
 Because this application won’t be deployed, i  needed to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. 
 
-- Dev Notes: 
+- Dev Notes: Had some serious issues with insomnia and mysql plan to fix later 
 
 **User Story**
 -
